@@ -1,0 +1,15 @@
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\bin\Debug\net6.0\DrugiDomaciSolucija.exe
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\bin\Debug\net6.0\DrugiDomaciSolucija.deps.json
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\bin\Debug\net6.0\DrugiDomaciSolucija.runtimeconfig.json
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\bin\Debug\net6.0\DrugiDomaciSolucija.dll
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\bin\Debug\net6.0\DrugiDomaciSolucija.pdb
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\obj\Debug\net6.0\DrugiDomaciSolucija.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\obj\Debug\net6.0\DrugiDomaciSolucija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\obj\Debug\net6.0\DrugiDomaciSolucija.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\obj\Debug\net6.0\DrugiDomaciSolucija.AssemblyInfo.cs
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\obj\Debug\net6.0\DrugiDomaciSolucija.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\obj\Debug\net6.0\DrugiDomaciSolucija.dll
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\obj\Debug\net6.0\refint\DrugiDomaciSolucija.dll
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\obj\Debug\net6.0\DrugiDomaciSolucija.pdb
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\obj\Debug\net6.0\DrugiDomaciSolucija.genruntimeconfig.cache
+C:\Users\rober\source\repos\DrugiDomaciSolucija\DrugiDomaciSolucija\obj\Debug\net6.0\ref\DrugiDomaciSolucija.dll
