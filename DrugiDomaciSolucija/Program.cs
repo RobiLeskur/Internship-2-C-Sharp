@@ -326,11 +326,11 @@ do
                 if (belgijaGolovi > kanadaGolovi)
                 {
                     tablica["Belgija"] += 3;
-                    tablica["Kanada"] -= 3;
+               
                 }
                 else if (belgijaGolovi < kanadaGolovi)
                 {
-                    tablica["Belgija"] -= 3;
+              
                     tablica["Kanada"] += 3;
                 }
                 else
@@ -342,11 +342,11 @@ do
                 if (hrvatskaGolovi > marokoGolovi)
                 {
                     tablica["Hrvatska"] += 3;
-                    tablica["Maroko"] -= 3;
+  
                 }
                 else if (hrvatskaGolovi < marokoGolovi)
                 {
-                    tablica["Hrvatska"] -= 3;
+         
                     tablica["Maroko"] += 3;
                 }
                 else
@@ -492,11 +492,9 @@ do
                     if (belgijaGolovi > hrvatskaGolovi)
                 {
                         tablica["Belgija"] += 3;
-                        tablica["Hrvatska"] -= 3;
                     }
                 else if (belgijaGolovi < hrvatskaGolovi)
                     {
-                        tablica["Belgija"] -= 3;
                         tablica["Hrvatska"] += 3;
                     }
                     else
@@ -508,11 +506,9 @@ do
                     if (kanadaGolovi > marokoGolovi)
                     {
                         tablica["Kanada"] += 3;
-                        tablica["Maroko"] -= 3;
                     }
                     else if (kanadaGolovi < marokoGolovi)
                     {
-                        tablica["Kanada"] -= 3;
                         tablica["Maroko"] += 3;
                     }
                     else
@@ -648,11 +644,9 @@ do
                         if (belgijaGolovi > marokoGolovi)
                         {
                             tablica["Belgija"] += 3;
-                            tablica["Maroko"] -= 3;
                         }
                         else if (belgijaGolovi < marokoGolovi)
                         {
-                            tablica["Belgija"] -= 3;
                             tablica["Maroko"] += 3;
                         }
                         else
@@ -664,11 +658,9 @@ do
                         if (kanadaGolovi > hrvatskaGolovi)
                         {
                             tablica["Kanada"] += 3;
-                            tablica["Hrvatska"] -= 3;
                         }
                         else if (kanadaGolovi < hrvatskaGolovi)
                         {
-                            tablica["Kanada"] -= 3;
                             tablica["Hrvatska"] += 3;
                         }
                         else
